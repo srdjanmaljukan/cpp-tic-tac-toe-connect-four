@@ -23,7 +23,7 @@ cmake --build .
 
 ## Status
 
-🚧 Work in progress — Tic-Tac-Toe in development.
+Completed.
 
 ## Project Structure
 
